@@ -1,3 +1,7 @@
+# https://leetcode.com/problems/range-sum-query-immutable/description/
+# Difficulty: Easy
+# Tags: Prefix
+
 # Problem:
 # Given an integer array, handle multiple queries of the following type
 # 1. Calculate the sum of the elements of nums between indices left and right
