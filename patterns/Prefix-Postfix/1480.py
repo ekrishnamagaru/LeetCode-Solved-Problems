@@ -7,7 +7,7 @@
 # runningSum[i] = sum(nums[0]...nums[i]).
 # Return the running sum of nums
 
-# Solution: O(n) time, O(1)
+# Solution: O(n) time, O(1) space
 class Solution(object):
     def runningSum(self, nums):
         """
